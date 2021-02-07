@@ -1,4 +1,4 @@
-# Lichess-Keyboard-Input
+# Lishogi-Keyboard-Input
 
 How to install: https://lichess.org/forum/team-welcome-keyboard/how-to-install-keyboard-input
 
@@ -35,16 +35,7 @@ space = Bishops <br />
 4     = offer rematch <br />
 (You can change keys to any other keys) <br />
 
-3. Try this in a game. To move a piece you have to hover your mouse cursor over a square-destination and press a corresponding key (you don't have to click your mouse buttons). For example, hover your mouse cursor over e4 and press "w". 
-<!--
-4. To change the keys, open the script (Tampermonkey icon, Dashboard, KeyboardLichessKeys), and find this part in the beginning: 
-![Keys](https://i.snag.gy/admb3S.jpg)
-There you can change the keys and click "Save"-->
 
-# Switching between keys
-It can be difficult to switch between keys. <br />
-So there are several possible solutions. <br />
-a. Using a second keyboard as pedals, removing all the keys except two in the middle in this manner: ![Pedals](https://i2.wp.com/www.synthtopia.com/wp-content/uploads/2018/10/usb-foot-switch-computer-keyboard-e1539127171568.jpg)
 How to build: https://www.youtube.com/watch?v=EGr3lvBtMV0 <br />
 
 b. Heightening two keys (for example, "x" and "v" by gluing something to them) to press them with the palm. Effectively increasing the number of hand digits to 7. <br />
