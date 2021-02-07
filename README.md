@@ -5,7 +5,6 @@ How to install: https://lichess.org/forum/team-welcome-keyboard/how-to-install-k
 Move pieces faster using your keyboard on Lichess <br />
 It is a legal way to become faster in ultrabullet
 
-A video example: https://youtu.be/UAExpNbLlIo
 
 Many thanks to Vempele, the author of the original script, from which I took ideas and parts of the code: https://gist.github.com/Vempele/46333e85e33b6d488c3ffb131942272d
 
@@ -35,11 +34,3 @@ space = Bishops <br />
 4     = offer rematch <br />
 (You can change keys to any other keys) <br />
 
-
-How to build: https://www.youtube.com/watch?v=EGr3lvBtMV0 <br />
-
-b. Heightening two keys (for example, "x" and "v" by gluing something to them) to press them with the palm. Effectively increasing the number of hand digits to 7. <br />
-![Heighten keys](https://i.snag.gy/S8JfLl.jpg) <br />
-![Heighten keys](https://i.snag.gy/YcQZyg.jpg) <br />
-
-c. Mapping some keys to the mouse. ![Mouse mapping](https://i.ytimg.com/vi/duKTSAMomo4/maxresdefault.jpg)
